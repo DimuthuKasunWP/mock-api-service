@@ -1,0 +1,8 @@
+[package]
+org = "verifonepoc"
+name = "mock_api_service"
+distribution = "2201.3.1"
+version = "1.0.0"
+
+[build-options]
+observabilityIncluded = true
